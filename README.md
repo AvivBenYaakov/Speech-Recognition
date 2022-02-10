@@ -1,2 +1,2 @@
 # Speech-Recognition
-Pytorch implementation for Speech Recognition using Convolutional &amp; Fully Connected Neural Networks
+In this project a Convolutional & Fully Connected Neural Network is implemented using PyTorch in order to perform speech recognition using Google Speech Commands Dataset.
